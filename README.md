@@ -2,7 +2,7 @@
 
 Necessário NPM para rodar
 
-clone e init com npm install 
+init com npm install 
 
 run com nodejs app.js ( na pasta do projeto )
 
